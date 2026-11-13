@@ -2415,6 +2415,7 @@ static lv_i18n_phrase_t pl_singulars[] = {
     {"SD card error", "Błąd karty SD"},
     {"SD unknown error", "Nieznany błąd karty SD"},
     {"Share my node", "Udostępnij mój węzeł"},
+    {"Public key: %s", "Klucz publiczny: %s"},
     {NULL, NULL} // End mark
 };
 
