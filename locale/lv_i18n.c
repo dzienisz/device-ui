@@ -2414,6 +2414,8 @@ static lv_i18n_phrase_t pl_singulars[] = {
     {"SD mbr not found", "Brak MBR na karcie SD"},
     {"SD card error", "Błąd karty SD"},
     {"SD unknown error", "Nieznany błąd karty SD"},
+||||||| 6ad0e2e
+    {"Share my node", "Udostępnij mój węzeł"},
     {NULL, NULL} // End mark
 };
 
