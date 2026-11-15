@@ -21,6 +21,7 @@ en:
   'Lock: off/off': ~
   'Screen Brightness: 60%': ~
   'Theme: Dark': ~
+  'Clock: 24h': ~
   'Screen Calibration: default': ~
   'Input Control: none/none': ~
   'Message Alert Buzzer: on': ~
@@ -57,6 +58,7 @@ en:
   WiFi pre-shared Key: ~
   'Brightness: 60%': ~
   "Dark\nLight": ~
+  "24h\n12h": ~
   'Timeout: 60s': ~
   Screen Lock: ~
   Settings Lock: ~
@@ -125,6 +127,7 @@ en:
   'Screen Timeout: %ds': ~
   'Screen Brightness: %d%%': ~
   'Theme: %s': ~
+  'Clock: %s': ~
   'Region: %s': ~
   'User name: %s': ~
   'Device Role: %s': ~
